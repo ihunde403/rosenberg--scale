@@ -1,1 +1,1 @@
-# rosenberg--scale
+# rosenbergscale
